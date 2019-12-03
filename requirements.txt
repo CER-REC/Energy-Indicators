@@ -1,12 +1,13 @@
-numpy
-matplotlib
-seaborn
-pandas
-requests
-bs4
+pandas 0.25.2
+numpy 1.17.3
+requests 2.22.0
+bs4 4.8.1
+zipfile
+io
 datetime
+calendar
+re 2.2.1
+matplotlib 3.1.1
+seaborn 0.9.0
 pyxlsb
-xlrd
-lxml
-wrapper
-tabula-py
+tabula-py 1.4.1
