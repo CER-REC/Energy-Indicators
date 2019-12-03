@@ -6,3 +6,5 @@ requests
 bs4
 datetime
 pyxlsb
+xlrd
+tabula
