@@ -4,7 +4,6 @@ seaborn
 pandas
 requests
 bs4
-io
 datetime
 calendar
 time
