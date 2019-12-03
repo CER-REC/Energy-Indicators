@@ -8,6 +8,5 @@ zipfile
 io
 datetime
 calendar
-numpy as np
 time
 re
