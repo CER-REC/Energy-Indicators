@@ -9,3 +9,5 @@ pyxlsb
 xlrd
 tabula
 lxml
+wrapper
+tabula-py
