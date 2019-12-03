@@ -7,7 +7,6 @@ bs4
 datetime
 pyxlsb
 xlrd
-tabula
 lxml
 wrapper
 tabula-py
