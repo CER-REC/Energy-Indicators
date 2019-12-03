@@ -5,6 +5,5 @@ pandas
 requests
 bs4
 datetime
-calendar
 time
 re
