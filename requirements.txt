@@ -4,7 +4,6 @@ seaborn
 pandas
 requests
 bs4
-zipfile==3.2
 io
 datetime
 calendar
