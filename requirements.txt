@@ -1,0 +1,13 @@
+numpy
+matplotlib
+seaborn
+pandas
+requests
+bs4
+zipfile
+io
+datetime
+calendar
+numpy as np
+time
+re
